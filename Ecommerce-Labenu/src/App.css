@@ -1,0 +1,12 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.ContainerGrid{
+  height: 400px;
+}
+
+.ContainerFlex{
+  display: flex;
+}
